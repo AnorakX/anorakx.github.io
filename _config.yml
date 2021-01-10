@@ -2,9 +2,7 @@ title: AnorakDev
 author: AnorakX
 url: ''
 description: >
-  AnorakX#8873 is a Discord.py developer who has been coding in Python since 2019 and started using Discord.py 
-  when the pandemic began. He has since created many different kinds of bots and is continuing to explore. He uses Discord.py, 
-  numerous pip modules, and MongoDB in his projects.
+  I'm a student and developer who has been coding in Python since 2018 and started using Discord.py when the pandemic began.
 permalink: '/:slug.html'
 favicon: ./logo.png
 remote_theme: abhinavs/moonwalk
