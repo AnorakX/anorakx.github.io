@@ -8,14 +8,14 @@ layout: default
   <div class="dashed" />
 {% endif %}
 
-  <h1>{{Hi, I'm AnorakX, a Python and Discord developer with variety.}}</h1>
+  <h1>Hi, I'm AnorakX, a Python and Discord developer with variety.</h1>
   {% if site.theme_config.show_description == true %}
-    <p>{{ AnorakX#8873 is a Discord.py developer who has been coding in Python since 2019 and started using Discord.py when the pandemic began. He has since created many different kinds of bots and is continuing to explore. He uses Discord.py, numerous pip modules, and MongoDB in his projects.}}</p>
+    <p>AnorakX#8873 is a Discord.py developer who has been coding in Python since 2019 and started using Discord.py when the pandemic began. He has since created many different kinds of bots and is continuing to explore. He uses Discord.py, numerous pip modules, and MongoDB in his projects.</p>
   {% endif %}
 </header>
 
 {% if site.theme_config.show_projects == true %}
-  <h2>Portfolio</h2>
+  <h2>Projects</h2>
   {% include card_list.html collection=site.data.home.project_entries %}
 {% endif %}
 
