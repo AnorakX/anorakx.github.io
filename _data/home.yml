@@ -20,7 +20,7 @@ project_entries:
     desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
   - title: TGO Trivia
     url: overview-post
-    desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
+    desc: ' A giveaway bot with an easy-to-use giveaway startup process and the option of role-restricted giveaways.'
     highlight: ''
   - title: Project 5
     url: overview-post
