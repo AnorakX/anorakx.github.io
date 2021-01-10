@@ -14,7 +14,7 @@ project_entries:
     desc: >-
       A Christmas event game bot I made for my server with dynamic cooldowns,
       20+ weapons, and a lot of competition. 
-    highlight: What is TGO?
+    highlight: ''
   - title: TGO Trivia
     url: overview-post
     desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
