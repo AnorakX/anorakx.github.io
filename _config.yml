@@ -1,11 +1,10 @@
-title: Moonwalk
-author: Abhinav Saxena
+title: AnorakDev
+author: AnorakX
 url: ''
 description: >
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes
-  with horizontal list (for navbar and footer), card list (for portfolio), and a
-  generic vertical list. It is very easy to modify in case you want to build
-  over it - please see _layouts/home.html to do that.
+  AnorakX#8873 is a Discord.py developer who has been coding in Python since 2019 and started using Discord.py 
+  when the pandemic began. He has since created many different kinds of bots and is continuing to explore. He uses Discord.py, 
+  numerous pip modules, and MongoDB in his projects.
 permalink: '/:slug.html'
 favicon: ./logo.png
 remote_theme: abhinavs/moonwalk
