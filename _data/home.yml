@@ -17,7 +17,7 @@ project_entries:
     highlight: What is TGO?
   - title: TGO Trivia
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
   - title: TGO Trivia
     url: overview-post
     desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
