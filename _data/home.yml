@@ -22,7 +22,7 @@ project_entries:
     url: overview-post
     desc: ' A giveaway bot with an easy-to-use giveaway startup process and the option of role-restricted giveaways.'
     highlight: ''
-  - title: Project 5
+  - title: AnoBot
     url: overview-post
     desc: Moonwalk also has horizontal list (used in header and footer)
     highlight: WIP
