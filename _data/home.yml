@@ -4,7 +4,7 @@ navbar_entries:
   - title: discord
     url: 'https://dsc.gg/anorakdev'
 project_entries:
-  - title: AnoGiveaways
+  - title: Advantage
     url: overview-post
     desc: >-
       A giveaway bot with an easy-to-use giveaway startup process and the option
