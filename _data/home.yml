@@ -26,7 +26,7 @@ project_entries:
     url: overview-post
     desc: 'A simple moderation, welcoming, ticketing, modmail, and suggestions bot.'
     highlight: WIP
-  - title: Project 6
+  - title: Crescendo
     url: overview-post
     desc: >-
       An in-the-works music bot that currently plays YouTube links and holds a
