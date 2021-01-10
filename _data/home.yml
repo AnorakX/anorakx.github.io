@@ -24,7 +24,7 @@ project_entries:
     highlight: ''
   - title: AnoBot
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: 'A simple moderation, welcoming, and suggestions bot.'
     highlight: WIP
   - title: Project 6
     url: overview-post
