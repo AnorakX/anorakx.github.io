@@ -11,7 +11,9 @@ project_entries:
       inventories, balances, unique sectors, and more.
   - title: Project 2
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: >-
+      An Christmas event game bot I made for my server with dynamic cooldowns,
+      20+ weapons, and a lot of competition. 
     highlight: e
   - title: Project 3
     url: overview-post
