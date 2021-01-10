@@ -31,11 +31,7 @@ project_entries:
     desc: >-
       An in-the-works music bot that currently plays YouTube links and holds a
       (very basic) queue.
-old_project_entries:
-  - title: year progress
-    url: 'https://year-progress.herokuapp.com/'
-    desc: A bot written for slack that shows current year in a progress bar
-    highlight: archived
+old_project_entries: []
 footer_entries:
   - title: abhinav's homepage
     url: 'http://www.abhinav.co'
