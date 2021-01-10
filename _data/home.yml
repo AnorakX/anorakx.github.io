@@ -24,7 +24,7 @@ project_entries:
     highlight: ''
   - title: AnoBot
     url: overview-post
-    desc: 'A simple moderation, welcoming, and suggestions bot.'
+    desc: 'A simple moderation, welcoming, ticketing, modmail, and suggestions bot.'
     highlight: WIP
   - title: Project 6
     url: overview-post
