@@ -32,9 +32,6 @@ project_entries:
       An in-the-works music bot that currently plays YouTube links and holds a
       (very basic) queue.
 old_project_entries:
-  - title: avnee
-    url: 'http://www.avnee.co'
-    desc: New age kids require new ways of parenting
   - title: year progress
     url: 'https://year-progress.herokuapp.com/'
     desc: A bot written for slack that shows current year in a progress bar
