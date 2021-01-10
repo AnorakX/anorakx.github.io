@@ -29,8 +29,8 @@ project_entries:
   - title: Project 6
     url: overview-post
     desc: >-
-      An imperfect, in-the-works music bot that currently plays YouTube links
-      and holds a (very basic) queue.
+      An  in-the-works music bot that currently plays YouTube links and holds a
+      (very basic) queue.
 old_project_entries:
   - title: microrequests
     url: 'http://www.abhinav.co/microrequests'
