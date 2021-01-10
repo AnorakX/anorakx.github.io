@@ -35,3 +35,7 @@ project_entries:
     url: ''
     highlight: 'Shut Down :('
     desc: 'A bot that sends an Among Us code to every server with custom channels, wiki search, and custom pings.'
+footer_entries:
+  - title: DM me at AnorakX#8873 to hire me!
+  - title: Or, join my Discord server to get in contact!
+    url: 'https://dsc.gg/anorakdev'
