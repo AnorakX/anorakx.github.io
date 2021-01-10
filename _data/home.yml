@@ -18,7 +18,7 @@ project_entries:
   - title: TGO Trivia
     url: overview-post
     desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
-  - title: TGO Trivia
+  - title: X Giveaways
     url: overview-post
     desc: ' A giveaway bot with an easy-to-use giveaway startup process and the option of role-restricted giveaways.'
     highlight: ''
