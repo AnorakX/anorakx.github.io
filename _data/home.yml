@@ -6,9 +6,7 @@ navbar_entries:
 project_entries:
   - title: Advantage
     url: overview-post
-    desc: >-
-      A giveaway bot with an easy-to-use giveaway startup process and the option
-      of role-restricted giveaways.
+    desc: ' A custom economy/leveling bot with 40+ commands, 50+ items, with user work such as custom colors, booster perks, inventories, balances, and more.'
   - title: Project 2
     url: overview-post
     desc: Projects are shown in card layout
