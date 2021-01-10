@@ -33,8 +33,6 @@ project_entries:
       (very basic) queue.
 old_project_entries: []
 footer_entries:
-  - title: twitter
-    url: 'https://twitter.com/abhinav'
   - title: github
     url: 'https://github.com/abhinavs'
   - title: feed
