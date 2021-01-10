@@ -2,7 +2,7 @@ navbar_entries:
   - title: about
     url: ''
   - title: discord
-    url: dsc.gg/anorakdev
+    url: 'https://dsc.gg/anorakdev'
 project_entries:
   - title: Project 1
     url: overview-post
