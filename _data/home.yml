@@ -23,7 +23,7 @@ project_entries:
     desc: ' A giveaway bot with an easy-to-use giveaway startup process and the option of role-restricted giveaways.'
     highlight: ''
   - title: AnoBot
-    url: overview-post
+    url: ''
     desc: 'A simple moderation, welcoming, ticketing, modmail, and suggestions bot.'
     highlight: WIP
   - title: Crescendo
