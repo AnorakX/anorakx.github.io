@@ -22,4 +22,4 @@ I began Discord.py when the pandemic hit. At first it started with me creating m
 
 ## My journey with Discord.py
 
-I have made numerous bots with numerous functions and am still exploring. Visit the home page and see some of my projects there!
+I have made numerous bots with numerous functions and am still exploring. Visit the [home page](https://anorakx.github.io) and see some of my projects there!
