@@ -28,4 +28,10 @@ project_entries:
     desc: >-
       An in-the-works music bot that currently plays YouTube links and holds a
       (very basic) queue.
-old_project_entries: []
+  - title: AnoBot
+    url: ''
+    desc: 'A simple moderation, welcoming, ticketing, modmail, and suggestions bot.'
+  - title: Crescendo
+    url: ''
+    highlight: 'Shut Down :('
+    desc: 'A bot that sends an Among Us code to every server with custom channels, wiki search, and custom pings.'
