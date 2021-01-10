@@ -7,8 +7,8 @@ project_entries:
   - title: Advantage
     url: overview-post
     desc: >-
-      A custom economy/leveling bot with 40+ commands, including items, custom
-      colors,inventories, balances, unique sectors, and more.
+      A custom economy/leveling bot with 40+ commands, including items,
+      inventories, balances, unique sectors, and more.
   - title: Project 2
     url: overview-post
     desc: Projects are shown in card layout
