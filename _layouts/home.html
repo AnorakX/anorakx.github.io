@@ -8,9 +8,9 @@ layout: default
   <div class="dashed" />
 {% endif %}
 
-  <h1>{{ site.title }}</h1>
+  <h1>{{Hi, I'm AnorakX, a Python and Discord developer with variety.}}</h1>
   {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
+    <p>{{ AnorakX#8873 is a Discord.py developer who has been coding in Python since 2019 and started using Discord.py when the pandemic began. He has since created many different kinds of bots and is continuing to explore. He uses Discord.py, numerous pip modules, and MongoDB in his projects.}}</p>
   {% endif %}
 </header>
 
@@ -22,15 +22,6 @@ layout: default
 {% if site.theme_config.show_misc_list == true %}
   <h2>Details</h2>
   {% include vertical_list.html collection=site.data.home.misc_entries %}
-{% endif %}
-
-
-<h2>Blog</h2>
-{% include post_list.html %}
-
-{% if site.theme_config.show_old_projects == true %}
-  <h2>Old Projects</h2>
-  {% include card_list.html collection=site.data.home.old_project_entries %}
 {% endif %}
 
 
