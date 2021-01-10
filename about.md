@@ -1,5 +1,6 @@
 ---
 layout: post
+title: About Me
 ---
 
 ## "If I'm gonna hire you, I should make sure I'm not hiring a psycho."
