@@ -18,7 +18,7 @@ project_entries:
   - title: Project 3
     url: overview-post
     desc: You can control visibility from _config.yml file
-  - title: TG
+  - title: TGO Trivia
     url: overview-post
     desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
     highlight: WIP
