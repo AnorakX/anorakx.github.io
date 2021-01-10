@@ -14,7 +14,6 @@ project_entries:
     desc: >-
       A Christmas event game bot I made for my server with dynamic cooldowns,
       20+ weapons, and a lot of competition. 
-    highlight: ''
   - title: TGO Trivia
     url: overview-post
     desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
@@ -25,9 +24,8 @@ project_entries:
   - title: AnoBot
     url: ''
     desc: 'A simple moderation, welcoming, ticketing, modmail, and suggestions bot.'
-    highlight: ''
   - title: Crescendo
-    url: overview-post
+    url: ''
     desc: >-
       An in-the-works music bot that currently plays YouTube links and holds a
       (very basic) queue.
