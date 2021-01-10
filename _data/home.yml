@@ -32,9 +32,6 @@ project_entries:
       An in-the-works music bot that currently plays YouTube links and holds a
       (very basic) queue.
 old_project_entries:
-  - title: microrequests
-    url: 'http://www.abhinav.co/microrequests'
-    desc: A Python library to consume microservices more efficiently
   - title: blockr
     url: 'http://www.abhinav.co/blockr'
     desc: A CLI tool to help you easily block and unblock websites
