@@ -32,9 +32,6 @@ project_entries:
       An in-the-works music bot that currently plays YouTube links and holds a
       (very basic) queue.
 old_project_entries:
-  - title: humangous
-    url: 'http://www.humangous.co'
-    desc: 'The better people know you, the better they collaborate'
   - title: avnee
     url: 'http://www.avnee.co'
     desc: New age kids require new ways of parenting
