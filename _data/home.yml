@@ -14,7 +14,7 @@ project_entries:
     desc: >-
       A Christmas event game bot I made for my server with dynamic cooldowns,
       20+ weapons, and a lot of competition. 
-    highlight: ''
+    highlight: What is TGO?
   - title: Project 3
     url: overview-post
     desc: You can control visibility from _config.yml file
