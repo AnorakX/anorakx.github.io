@@ -28,7 +28,9 @@ project_entries:
     highlight: WIP
   - title: Project 6
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: >-
+      An imperfect, in-the-works music bot that currently plays YouTube links
+      and holds a (very basic) queue.
 old_project_entries:
   - title: microrequests
     url: 'http://www.abhinav.co/microrequests'
