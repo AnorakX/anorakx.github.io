@@ -1,7 +1,7 @@
 navbar_entries:
   - title: about
     url: 'about'
-  - title: discord
+  - title: my discord
     url: 'https://dsc.gg/anorakdev'
 project_entries:
   - title: Advantage
