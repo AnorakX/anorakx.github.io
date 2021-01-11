@@ -28,12 +28,9 @@ project_entries:
     desc: >-
       An in-the-works music bot that currently plays YouTube links and holds a
       (very basic) queue.
-  - title: AnoBot
-    url: ''
-    desc: 'A simple moderation, welcoming, ticketing, modmail, and suggestions bot.'
   - title: Dropship
     url: ''
-    highlight: 'Shut Down :('
+    highlight: 'Shut Down'
     desc: 'A bot that sends an Among Us code to every server with custom channels, wiki search, and custom pings.'
 footer_entries:
   - title: DM me at AnorakX#8873 to hire me!
