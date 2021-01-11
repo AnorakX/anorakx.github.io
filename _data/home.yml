@@ -3,33 +3,46 @@ navbar_entries:
     url: 'about'
   - title: my discord
     url: 'https://discord.gg/ueyR9Shrbv'
+skills:
+  - title: Python
+    url: 'https://www.python.org'
+    desc: >- 'Python is an object-oriented, high-level programming language that allows for fast production. I use this as my primary language in my projects.'
+  - title: MongoDB  
+    url: 'https://www.mongodb.com'
+    desc: >- 'MongoDB is a cross-platform and open-source document-oriented database. I use this for data storing in my projects.'
+  - title: Discord.py
+    url: 'https://discordpy.readthedocs.io'
+    desc: >- 'Discord.py is a Python API wrapper for Discord to make Discord bots and applications. I use this in all my Discord-related projects.'
+   - title: Python Modules
+    url: 'module-list'
+    desc: >- 'I use these very often in my projects to give them more power. Click here to get a list of examples!'
 project_entries:
   - title: Advantage
-    url: overview-post
+    url: advantage
     desc: >-
       A custom economy/leveling bot with 40+ commands, including items,
       inventories, balances, unique sectors, and more.
   - title: Solstice
-    url: overview-post
+    url: solstice
     desc: >-
       A Christmas event game bot I made for my server with dynamic cooldowns,
       20+ weapons, and a lot of competition. 
   - title: TGO Trivia
-    url: overview-post
+    url: tgotrivia
     desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
   - title: X Giveaways
-    url: overview-post
+    url: xgiveaways
     desc: ' A giveaway bot with an easy-to-use giveaway startup process and the option of role-restricted giveaways.'
   - title: AnoBot
-    url: ''
+    url: anobot
     desc: 'A simple moderation, welcoming, ticketing, modmail, and suggestions bot.'
   - title: Crescendo
-    url: ''
+    url: crescendo
     desc: >-
       An in-the-works music bot that currently plays YouTube links and holds a
       (very basic) queue.
   - title: Dropship
-    url: ''
+    url: dropship
     highlight: 'Shut Down'
     desc: 'A bot that sends an Among Us code to every server with custom channels, wiki search, and custom pings.'
 footer_entries:
