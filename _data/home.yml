@@ -13,9 +13,6 @@ skills:
   - title: Discord.py
     url: 'https://discordpy.readthedocs.io'
     desc: 'Discord.py is a Python API wrapper for Discord to make Discord bots and applications. I use this in all my Discord-related projects.'
-  - title: Python Modules
-    url: 'module-list'
-    desc: 'I use these very often in my projects to give them more power. Click here to get a list of examples!'
 project_entries:
   - title: Advantage
     url: advantage
