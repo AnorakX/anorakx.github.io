@@ -6,7 +6,7 @@ navbar_entries:
 skills:
   - title: Python
     url: 'https://www.python.org'
-    desc: 'Python is an object-oriented, high-level programming language that allows for fast production. I use this as my primary language in my projects.'
+    desc: 'Python is an object-oriented, high-level programming language that allows for fast production. This is my primary language.'
   - title: MongoDB  
     url: 'https://www.mongodb.com'
     desc: 'MongoDB is a cross-platform and open-source document-oriented database. I use this for data storing in my projects.'
