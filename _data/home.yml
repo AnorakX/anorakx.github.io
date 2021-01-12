@@ -6,16 +6,16 @@ navbar_entries:
 skills:
   - title: Python
     url: 'https://www.python.org'
-    desc: >- 'Python is an object-oriented, high-level programming language that allows for fast production. I use this as my primary language in my projects.'
+    desc: 'Python is an object-oriented, high-level programming language that allows for fast production. I use this as my primary language in my projects.'
   - title: MongoDB  
     url: 'https://www.mongodb.com'
-    desc: >- 'MongoDB is a cross-platform and open-source document-oriented database. I use this for data storing in my projects.'
+    desc: 'MongoDB is a cross-platform and open-source document-oriented database. I use this for data storing in my projects.'
   - title: Discord.py
     url: 'https://discordpy.readthedocs.io'
-    desc: >- 'Discord.py is a Python API wrapper for Discord to make Discord bots and applications. I use this in all my Discord-related projects.'
+    desc: 'Discord.py is a Python API wrapper for Discord to make Discord bots and applications. I use this in all my Discord-related projects.'
    - title: Python Modules
     url: 'module-list'
-    desc: >- 'I use these very often in my projects to give them more power. Click here to get a list of examples!'
+    desc: 'I use these very often in my projects to give them more power. Click here to get a list of examples!'
 project_entries:
   - title: Advantage
     url: advantage
