@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 ---
-### <i>"If I'm gonna hire you, I should make sure I'm not hiring a psycho."</i>
+### "If I'm gonna hire you, I should make sure I'm not hiring a psycho."
 
 ## How I began
 
