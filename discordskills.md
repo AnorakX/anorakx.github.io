@@ -17,4 +17,4 @@ title: Discord Skills
 - Basic music ([Crescendo](https://anorakx.github.io/crescendo))
 - Wiki/website search ([Dropship](https://anorakx.github.io/dropship))
 - Private/temporary voice channel creation - useful for gaming ([Advantage](https://anorakx.github.io/advantage), [Dropship](https://anorakx.github.io/dropship))
-- **And more! DM me today to ask me if I can do something.**
+- **And more! DM me today to ask about a feature not included above.**
