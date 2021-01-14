@@ -1,10 +1,9 @@
 ---
 layout: post
-title: About Me
+title: Discord Skills
 ---
-##<i>So what can you even do? Gotta make sure you're not just wasting time.</i>
-##Discord Skills
-I can make you a bot with:
+## <i>So what can you even do? Gotta make sure you're not just wasting time.</i>
+### I can make you a bot with:
 - Custom economy with dynamic inventories, cooldowns, shops, and more ([Advantage](https://anorakx.github.io/advantage), [Solstice](https://anorakx.github.io/solstice))
 - Custom leveling with automatic role assignments, custom level-up messages, and more ([Advantage](https://anorakx.github.io/advantage))
 - Moderation with dynamic warn system ([AnoBot](https://anorakx.github.io/anobot))
