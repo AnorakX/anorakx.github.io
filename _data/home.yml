@@ -1,8 +1,10 @@
 navbar_entries:
   - title: about
     url: 'about'
-  - title: my discord
+  - title: discord server
     url: 'https://discord.gg/ueyR9Shrbv'
+  - title: discord skills
+    url: 'discordskills'
 skills:
   - title: Python
     url: 'https://www.python.org'
