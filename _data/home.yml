@@ -29,7 +29,7 @@ discord_project_entries:
   - title: TGO Trivia
     url: tgotrivia
     desc: 'A trivia bot with over 4,000 questions, 25 categories, and 4 gamemodes.'
-   - title: Hermes Modmail
+  - title: Hermes Modmail
     url: hermesmodmail
     desc: 'A modmail bot with customizable report channels, logs, and management roles/pings.'
   - title: X Giveaways
