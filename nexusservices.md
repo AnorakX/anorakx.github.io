@@ -14,4 +14,4 @@ Nexus Services is a group of people with various Discord skills and experience w
 - <b>Server Creation</b> - We can set up or improve a server's text/voice channels, permission/color/reaction roles, emojis, bots, and more! <i>Pricing may vary. Contact us to get a quote.</i>
 - <b>Advertisement Services</b> - We provide advertisements in 100+ member servers with optional pings and other customizable features! <i>Pricing may vary. Contact us to get a quote.</i>
 ## Sounds great! How do I hire you?
-<b>[Join our server](https://discord.gg/zunP2mBeEm)</b> today and visit the #「🌟」hire-us channel to get started!
+<b>[Join our server](https://discord.gg/zunP2mBeEm)</b> today and visit the `#「🌟」hire-us channel` to get started!
