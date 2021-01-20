@@ -40,5 +40,11 @@ One of the most effective ways to make a server active is a good leveling system
 ## gems, medals, and crates
 Gems were currency multipliers and medals were leveling multipliers. Both could be bought with credits. The idea was to incentivize activity during periods when people had multipliers on.
 ## colors
+
 ## sectors
 Halfway along, I thought of different <i>sectors</i>. These were different "locations" that the user could move to by spending a certain amount of credits and `work`, `beg`, and `rob` would have different chances or earnings, but I only ever coded 2 sectors.
+## conclusion 
+<u>If I were given the chance to re-do, I would:</u>
+- My biggest do-over would be dynamic cooldowns. I used Discord.py's built-in cooldowns, which caused a lot of problems. I couldn't reset cooldowns or alter them, which I would've liked, and if someone used a bugged command it was always in a cooldown. Whenever I restarted the program, cooldowns also restarted.
+- Fix bugs. Advantage was pretty buggy at the beginning, and I wish I'd known better.
+<b>Advantage was a project where I learned to do a lot. It was an ambitious project that enhanced my Discord.py and propelled me into really making Discord bots.</b>
