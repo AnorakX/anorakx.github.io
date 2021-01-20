@@ -1,10 +1,12 @@
 navbar_entries:
   - title: about
     url: 'about'
-  - title: discord server
-    url: 'https://discord.gg/ueyR9Shrbv'
-  - title: discord skills
+  - title: discord
+    url: 'https://discord.gg/zunP2mBeEm'
+  - title: skills
     url: 'discordskills'
+  - title: plans
+    url: 'plans'
 skills:
   - title: Python
     url: 'https://www.python.org'
@@ -49,5 +51,5 @@ discord_project_entries:
     desc: 'A bot that sends an Among Us code to every server with custom channels, wiki search, and custom pings.'
 footer_entries:
   - title: DM me at AnorakX#8873 to hire me!
-  - title: Or, join my Discord server to get in contact!
-    url: 'https://dsc.gg/anorakdev'
+  - title: Or, join the Nexus Services Discord!
+    url: 'https://discord.gg/zunP2mBeEm'
