@@ -2,7 +2,7 @@
 layout: post
 title: Advantage
 ---
-## Table of contents
+## table of contents
 - [the "sales pitch"](#the-sales-pitch)
 - [the idea](#the-idea)
 - [the inspirations](#the-inspirations)
