@@ -7,6 +7,8 @@ navbar_entries:
     url: 'discordskills'
   - title: plans
     url: 'plans'
+  - title: nexus services
+    url: 'nexusservices'
 skills:
   - title: Python
     url: 'https://www.python.org'
