@@ -42,7 +42,7 @@ One of the most effective ways to make a server active is a good leveling system
 Gems were currency multipliers and medals were leveling multipliers. Both could be bought with credits. The idea was to incentivize activity during periods when people had multipliers on. 
 Crates were random lootboxes with specified chances that gave out gems, medals, and trinkets alike.
 ### colors
-Many servers use colors to incentivize economy, and I thought that was a good idea. 
+Many servers use colors to incentivize economy, and I thought that was a good idea. I incorporated both leveling and economy by making colors purchasable by credits and certain colors only purchasable by certain levels. The bot also allowed me to do things like color-changing color roles.
 ### sectors
 Halfway along, I thought of different <i>sectors</i>. These were different "locations" that the user could move to by spending a certain amount of credits and `work`, `beg`, and `rob` would have different chances or earnings, but I only ever coded 2 sectors.
 ## conclusion 
