@@ -15,9 +15,11 @@ For <b>Nitro Classic</b> ($5), I can offer you:
 For <b>1 server boost</b>, I can offer you:
 - Up to 10 commands (no economy, leveling, ticketing/modmail, or music)
 - 24/7 hosting not guaranteed
+
 For <b>2 server boosts</b>, I can offer you:
 - Up to 15 commands (no economy, leveling, or music)
 - 24/7 hosting 
+
 For <b>3 or more server boosts</b>, I can offer you:
 - +5 command limit for every boost
 - 4+ boosts: economy, leveling, and music
