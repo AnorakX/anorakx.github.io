@@ -50,6 +50,7 @@ One of the most effective ways to make a server active is a good leveling system
 - Auto-roles (roles would automatically be added/removed based on level)
 - `daily` and `vote` earnings scale with level
 - Some items in the shop (such as colors) can only be bought when levels are reached
+
 ### 4. gems, medals, and crates
 Gems were currency multipliers and medals were leveling multipliers. Both could be bought with credits. The idea was to incentivize activity during periods when people had multipliers on. 
 Crates were random lootboxes with specified chances that gave out gems, medals, and trinkets alike.
