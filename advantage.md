@@ -69,5 +69,6 @@ As an incentive for boosting the server, I included things like booster-exclusiv
 
 <b>Advantage was a project where I learned to do a lot. It was an ambitious project that took around 2 months but in the end enhanced my Discord.py and propelled me into really making Discord bots.</b>
 
-<i>If you want to hire me to make an economy bot, this is probably the extent of my skill!</i>
+<i><b>[Check out my plans](https://anorakx.github.io/plans)</b> and hire me today!</i>
+
 <i>For more examples, go back to the <b>[home page](https://anorakx.github.io).</b></i>
