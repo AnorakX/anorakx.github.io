@@ -8,7 +8,7 @@ title: Plans
 ## List of Plans
 - [(LIMITED TIME ONLY!) One-Time Minecraft Account](#minecraft-acount)
 - [Discord Nitro Plans](#discord-nitro-plans) <i>(separate plans for both Regular/Classic)</i>
-- [Discord Server Boost](#discord-server-boost)
+- [Discord Server Boost](#discord-server-boost) <i>(separate plans for 1, 2, and 3+ boosts)</i>
 - [Custom Plan and Alternate Payment](#custom-plan-and-alternate-payment)
 
 ## [Minecraft Account](#minecraft-acount)
