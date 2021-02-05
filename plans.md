@@ -6,10 +6,16 @@ title: Plans
 <i>Please note that all of these plans are <b>open to negotiation</b> and paid <b>monthly.</b> (If you are not open to monthly payment, please visit [Custom Plan and Alternate Payment](#custom-plan-and-alternate-payment).)
 
 ## List of Plans
+- [(LIMITED TIME ONLY!) Minecraft Account](#minecraft-acount)
 - [Discord Nitro Regular](#discord-nitro-regular)
 - [Discord Nitro Classic](#discord-nitro-classic)
 - [Discord Server Boost](#discord-server-boost)
 - [Custom Plan and Alternate Payment](#custom-plan-and-alternate-payment)
+
+## [Minecraft Account](#minecraft-acount)
+For one <b>Mojang Minecraft Accountr</b> ($10), I can offer you:
+- Up to 30 commands (all modules available)
+- 24/7 hosting 
 
 ## [Discord Nitro Regular](#discord-nitro-regular)
 For <b>Nitro Regular</b> ($10), I can offer you:
@@ -37,8 +43,5 @@ For <b>3 or more server boosts</b>, I can offer you:
 
 ## [Custom Plan and Alternate Payment](#custom-plan-and-alternate-payment)
 If these aren't enough OR too much and you want to talk about a custom plan, please <b>DM me at AnorakX#8873</b>.
-As alternate payment, I also accept:
-- Robux
-- Steam
 
 <i>To hire me today, <b>DM me at AnorakX#8873</b>! Or, go to the [home page](https://anorakx.github.io).</i>
