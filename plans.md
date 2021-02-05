@@ -12,8 +12,8 @@ title: Plans
 - [Custom Plan and Alternate Payment](#custom-plan-and-alternate-payment)
 
 ## [Minecraft Account](#minecraft-acount)
-For one <b>Mojang Minecraft Accountr</b> ($10), I can offer you:
-- Up to 30 commands (all modules available)
+For one <b>Mojang Minecraft Account</b> ($10), I can offer you:
+- Up to 20 commands (all modules available)
 - 24/7 hosting 
 
 ## [Discord Nitro Plans](#discord-nitro-plans)
